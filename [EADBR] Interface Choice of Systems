@@ -18,17 +18,17 @@ scanf("%d", &num);
 switch(num)
 {
 case 1:
-system("clear");
+system("clear"); // in linux
 printf(" \nStarting Ubuntu...\n\n");
 break;
 
 case 2:
-system("clear");
+system("clear"); // in linux
 printf(" \nStarting Windows... \n\n");
 break;
 
 case 3:
-system("clear");
+system("clear"); // in linux
 printf(" \nStarting OPENBSD... \n\n");
 break;
 }
