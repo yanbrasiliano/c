@@ -5,7 +5,7 @@
 int main()
 {
 
-//programa base para estrutura de repetição
+//programa base para estrutura de repetição for e do/while.
 
 int resp,num = 0;
 do {
