@@ -18,5 +18,7 @@ printf("%d is prime number!\n\n",n);
 } else {
 printf("%d is no prime number!\n\n",n);
 }
+
 return 0; 
+
 }
