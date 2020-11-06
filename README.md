@@ -1,5 +1,6 @@
 
-# Welcome to My Basic Repository in C for learning ⚡
+# Welcome to My Basic Repository in C  ⚡
+
 ---
 
 
