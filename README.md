@@ -6,7 +6,7 @@
  I'm Yan and this is my first repository; 
 
 
- This is my private repository for learning basic codes in language C.  :computer:
+ This is my public repository for learning and teaching basic codes in language C.  :computer:
 
 ---
 
