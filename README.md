@@ -3,10 +3,10 @@
 ---
 
 
- I'm Yan and this is my first repository; 
+  I'm Yan and this is my first repository  🤖 
 
 
- This is my public repository for learning and teaching basic codes in language C.  :computer:
+  This is my public repository for learning and teaching basic codes in language C.   👨‍💻
 
 ---
 
