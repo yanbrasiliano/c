@@ -29,7 +29,7 @@ int main(void){
 void Date(int day, int month, int year){
 	const char* months[] = {"January", "February", "March", "April",
                                "May", "June", "July", "August",
-                               "Setember", "October", "November", "Dezember"};
+                               "Setember", "October", "November", "December"};
     system ("clear"); //gnu-linux
 
 	printf("The Date is: %s %dth, %d\n", months[month - 1], day , year);
