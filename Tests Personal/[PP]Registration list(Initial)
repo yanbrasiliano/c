@@ -5,7 +5,7 @@
 int main (void) {
     setlocale(LC_ALL, "Portuguese");
 
-    // <.Listagem de Cadastrados.>
+    // <.Listagem de Cadastrados.>  programa lista informações cadastradas.
 
     char nome1[40], nome2[40], nome3[40];
     char sexo1,sexo2, sexo3;

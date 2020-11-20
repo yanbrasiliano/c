@@ -3,7 +3,7 @@
 int main()
 {
     int saque = 0;
-
+//programa para simular saque em caixa eletrônco.
     do
     {
         printf("\n\nEnter the takeoff value: R$ ");

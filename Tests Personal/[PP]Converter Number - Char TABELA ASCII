@@ -1,14 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <locale.h>
 #include <string.h>
 
 int main(){
 
 char name [20];
 int num;
-setlocale(LC_ALL, ("Portuguese"));
 
+// programa converte valores x em valores y que estão na tabela ASCII
     printf(" \t\tCONVERTER NUMBER IN CHAR -  TABELA ASCII\n ");
     printf(" \n\nHi, Enter your name: ");
     fgets (name,20,stdin);

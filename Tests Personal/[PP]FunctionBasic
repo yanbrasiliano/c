@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//programa retorna o dobro de um número digitado - testando o básico de funções.
 int num(int num1){
 
     return num1 * 2;

@@ -11,7 +11,8 @@ int mult(int value)
 
 int main()
 {
-
+  //programa para mostrar função, define e operadores ternários.
+    
     int value, m;
     // diferente do define, este valor vai ocupar um espaço na memória, pois está dentro do processamento.
     const float value2 = 8.5;

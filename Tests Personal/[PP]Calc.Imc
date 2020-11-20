@@ -4,6 +4,7 @@
 
 int main () {
 
+// programa para calcular IMC
 char name[30];
 float weight,height,bmi;
 int resp;

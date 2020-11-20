@@ -5,7 +5,7 @@
 int main()
 {
 
-//programa base para estrutura de repetição com while e do/while.
+//programa base para estrutura de repetição com while e do/while. Multiplica tabuada de 10
 
 int resp,num,x = 0;
 do {

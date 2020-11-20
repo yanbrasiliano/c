@@ -3,6 +3,7 @@
 
 int main(){
 
+    //programa para teste de string - retorna as letras da string .
     char name [] = "Testando";
     int i;
     int cont = 0;
