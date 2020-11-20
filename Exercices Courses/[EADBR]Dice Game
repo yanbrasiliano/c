@@ -6,7 +6,7 @@
 int main()
 {
 setlocale(LC_ALL, ("Portuguese"));
-//programa para função rand
+//programa para função rand - jogo do dado.
 int x;
 
 do{
