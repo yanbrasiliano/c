@@ -3,7 +3,7 @@
 
 int main () {
 int n,i,r = 0;
-
+//programa para descobrir números primos.
 printf("Hello,enter your number: ");
 scanf("%d",&n);
 // Este programa dirá se o número é primo ou não.

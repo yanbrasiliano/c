@@ -8,7 +8,7 @@ setlocale(LC_ALL, ("Portuguese"));
 //programa para testar escolhas.
 
 int num;
-
+//programa simula escolha de S.O interface gráfica
 printf(" --- Systems ---");
 printf(" \n1 - Ubuntu");
 printf(" \n2 - Windows");

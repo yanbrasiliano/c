@@ -9,7 +9,7 @@ int main()
 float km,l,r;
 char nome[30];
 int x;  
-
+// programa calcula consumo de gasolina baseado nas informações inseridas.
 
 do{
 printf("\n\nHello, what is your name?  ");

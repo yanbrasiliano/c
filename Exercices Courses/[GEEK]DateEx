@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 void Date(int day, int month, int year);
-
+//programa recebe data e retorna ela por extenso.
 int main(void){
 	int day, month, year;
 	
