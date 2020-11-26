@@ -5,7 +5,7 @@ int main()
 {
  
  //programa recebe valores na array e retorna os valores e sua localização
-    //         l  c
+    //        l  c
     int array[3][3];
     int i, j;
 
