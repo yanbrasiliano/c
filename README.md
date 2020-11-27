@@ -1,6 +1,8 @@
 
 # Welcome to My Basic Repository in C  ⚡
 
+![c](https://user-images.githubusercontent.com/72168914/100409642-29638300-304b-11eb-9edf-e98ebc1d4d45.jpg)
+
 ---
 
   I'm Yan and this is my first repository  🤖 
