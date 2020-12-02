@@ -1,0 +1,33 @@
+#include <stdio.h>
+
+
+
+int date(){
+    char gender[] = "M","F";
+    char eyes[] = "Blue","Brown", "Green";
+    char hair [] = "Blond", "Black", "Redhead"; 
+    int idade;
+
+    
+
+
+}
+
+
+
+
+
+
+
+
+int main(){
+
+
+
+
+
+
+
+
+    return 0;
+}
