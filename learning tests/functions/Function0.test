@@ -26,7 +26,7 @@ int main()
     printf("\n\nEnter second number: ");
     scanf("%f", &r);
 
-    c = (n, r);
+    c = num(n, r);
     printf("\n\n");
 
     printf("The largest number between %.1f and %.1f: %.1f \n",n, r, c);
