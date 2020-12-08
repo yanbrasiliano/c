@@ -39,7 +39,7 @@ int main()
 
         printf("\n\nThere're %d value(s) greater than 10 \n\n", cont);
 
-        printf("Type 1 to continue or 2 to exit: ");
+        printf("Type 1 to return or 2 to exit: ");
         scanf("%d", &x);
 
     } while (x != 2);
