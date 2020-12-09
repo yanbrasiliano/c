@@ -31,10 +31,9 @@ average = total / 3; // lógica da média.
 
 printf("\n%s average is: %.2f\n", name,average);
 name[strlen(name)-1] = '\0'; //remover o \n que ficou da leitura com fgets
-getchar(); // press enter for exit.
 
 printf("Press enter for exit!");
-
+getchar(); // press enter for exit.
 return 0;
 
 }   
