@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main()
-{
+int main(void){
     //programa recebe valores na matriz e retorna quantos são maiores que 10 e quais são os valores das matrizes.
     //         l  c
     int array[3][3];

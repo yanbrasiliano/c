@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main()
-{
+int main(void){
     // programa vai declarar um inteiro, um char e um real e ponteiro para os eles.
     //Associará as variáveias aos ponteiros e modificará os valores de cada variável usando os  ponteiros.
     // Após isso, imprimirá na tela o antes e o depois.
@@ -60,7 +59,7 @@ int main()
 
     printf("\n\n\n");
 
-     printf("Ṕress Enter for Finish!");
+    printf("Ṕress Enter for Finish!");
 
     getchar();
     return 0;

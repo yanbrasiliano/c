@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-int main() {
+int main(void) {
 
 int maior=0,menor=0,aux=0,contador=0;
 

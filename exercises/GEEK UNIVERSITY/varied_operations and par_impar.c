@@ -1,12 +1,10 @@
 #include <stdio.h>
-#include <locale.h>
 #include <stdlib.h>
 #include <string.h>
 
 
-int main() 
-{
-setlocale(LC_ALL, "Portuguese");
+int main(void){
+
 char name[30];
 int n1,n2;
 float r;

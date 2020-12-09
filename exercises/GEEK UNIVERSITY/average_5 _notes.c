@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 
-int main ()
+int main (void)
 {
 //soma da média de 5 números digitados seguidamentes.
 

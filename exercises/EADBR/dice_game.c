@@ -3,7 +3,7 @@
 #include <locale.h>
 #include <time.h>
 
-int main()
+int main(void)
 {
 setlocale(LC_ALL, ("Portuguese"));
 //programa para função rand - jogo do dado.

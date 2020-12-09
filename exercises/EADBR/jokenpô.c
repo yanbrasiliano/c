@@ -6,7 +6,7 @@
 char name [40];
 int opt,pc;
 //programa para simular pedra, papel ou tesoura.
-void main()
+int main(void)
 {
 setlocale(LC_ALL, ("Portuguese"));
 //pedra, papel ou tesoura.

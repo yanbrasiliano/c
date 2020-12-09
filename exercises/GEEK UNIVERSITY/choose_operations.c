@@ -3,7 +3,7 @@
 #include <string.h>
 #include <locale.h>
 
-int main() 
+int main(void) 
 {
 char name[20];
 int  a,b,c,d,x,e,f,g,y,p,h,j,z,v,m;

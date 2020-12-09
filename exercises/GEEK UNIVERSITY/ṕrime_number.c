@@ -1,7 +1,7 @@
 #include <stdio.h> 
 
 
-int main () {
+int main(void) {
 int n,i,r = 0;
 //programa para descobrir números primos.
 printf("Hello,enter your number: ");

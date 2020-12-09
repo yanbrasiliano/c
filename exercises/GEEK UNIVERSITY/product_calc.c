@@ -3,8 +3,7 @@
 #include <string.h>
 
 
-int main() 
-{
+int main(void){
 char name[30],product[20],state[10];
 float t,value,x;
 int y;

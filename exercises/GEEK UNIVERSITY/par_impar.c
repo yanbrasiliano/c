@@ -3,7 +3,7 @@
 
 //programa receberá 2 números inteiros e calculará a soma dos pares do intervalo destes números e a multiplicação dos impáres do intervalo destes números.
 
-int main() {
+int main(void) {
 
 int n1 = 0,n2 = 0,impar = 1,par = 0;
 
