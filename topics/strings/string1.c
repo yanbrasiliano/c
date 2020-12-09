@@ -2,7 +2,7 @@
 #include <string.h>
 
 
-int main(){
+int main(void){
 
 // este programa servirá para testar a função strcpy
 

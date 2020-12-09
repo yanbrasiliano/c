@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main()
-{
+int main(void){
  
  //programa recebe valores na array e retorna os valores e sua localização
     //        l  c

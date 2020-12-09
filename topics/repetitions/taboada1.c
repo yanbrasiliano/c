@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
-int main()
+int main(void)
 {
 
 //programa base para estrutura de repetição com while e do/while. Multiplica tabuada de 10

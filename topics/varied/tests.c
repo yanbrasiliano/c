@@ -9,8 +9,7 @@ int mult(int value)
     return value * VAR;
 }
 
-int main()
-{
+int main(void){
   //programa para mostrar função, define e operadores ternários.
     
     int value, m;

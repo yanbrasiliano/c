@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-int main(){
+int main(void){
 
     //programa para teste de string - retorna as letras da string .
     char name [] = "Testando";

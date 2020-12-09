@@ -7,7 +7,7 @@ int num(int num1){
 }
 
 
-int main (){
+int main(void){
 int n,r;
 
 printf("\n\nEnter first number: ");

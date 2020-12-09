@@ -15,8 +15,7 @@ float num(float num1, float num2)
     }
     return 0;
 }
-
-int main()
+int main(void)
 {
     float n, r, c;
 

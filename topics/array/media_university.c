@@ -2,8 +2,7 @@
 
 // este programa armazenará duas médias distintas em uma matriz e retornará a maior média, junto com a mátricula.
 
-int main()
-{
+int main(void){
     int i, j, M[2][4], maior;
     float mediaritm = 0;
 

@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-int main () {
+int main(void){
 
 // programa para calcular IMC
 char name[30];

@@ -2,8 +2,7 @@
 #include <stdlib.h>
 
 
-int main()
-{
+int main(void){
 
 //programa base para estrutura de repetição for e do/while - multiplica tabuada de 20.
 

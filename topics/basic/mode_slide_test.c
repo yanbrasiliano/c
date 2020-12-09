@@ -3,7 +3,7 @@
 #include <locale.h>
 
 int n;
-int main(int argc, char *argv[]){
+int main(void){
 setlocale(LC_ALL, ("Portuguese"));
 //programa cria um slide com texto pré determinado.
     printf("FOTOSSÍNTESE\n\n");

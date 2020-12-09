@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int main(void)
 {
     int saque = 0;
 //programa para simular saque em caixa eletrônco.

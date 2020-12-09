@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main()
-{
+int main(void){
 //programa para testar valores no vetor e multiplicar vetores diferentes.
     int A[10];
     int B[10];
