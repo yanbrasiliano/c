@@ -16,7 +16,7 @@ int main(void){
     // diferente do define, este valor vai ocupar um espaço na memória, pois está dentro do processamento.
     const float value2 = 8.5;
     printf("\nEnter with the value at R$: ");
-    scanf("%d", &value);
+    scanf("%f", &value);
 
     m = mult(value);
 
