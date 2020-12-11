@@ -18,7 +18,7 @@ int main(void)
                
                for (int notas = 0; notas < 4; notas++) {
                scanf ("%f", &notasAlunos[aluno][notas]); // leitura da inserção d dados
-               media += notasAlunos[aluno][notas]; // adiciona o valor da variável notasAlunos
+               media += notasAlunos[aluno][notas]; // adiciona o valor da variável notasAlunos, no final, a variável media conterá os valores somados de cada aluno.
                }
                      mediasAlunos[aluno] = media / 4; // calculo da média.
                      media = 0; // reseta a a variável para retornar ao começo.
