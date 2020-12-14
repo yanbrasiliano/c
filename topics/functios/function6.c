@@ -1,33 +1,42 @@
 #include <stdio.h>
 
-//ordenar os números de forma crescente 
-// em construção!
+//ordenar os números de forma crescente
 
-void ordemCrescente(int vetor[], int n){
 
-    int i,j,temp;
+void ordemCrescente(int vetor[], int n)
+{
 
-    for(i = 0; i < n; i++){
-        for(j = i + 1; j < n; j++){
+	int i, j, temp;
 
-        }
+	for (i = 0; i < n; i++)
+	{
+		for (j = i + 1; j < n; j++)
+		{
 
-    }
-
+			if (vetor[i] > vetor[j])
+			{
+				temp = vetor[i];
+				vetor[i] = vetor[j];
+				vetor[j] = temp;
+			}
+		}
+	}
 }
 
+int main(void)
+{
 
+	int vetor[10] = {3, 5, 6, 2, 1, 7, 8, 9, 10, 4};
+	int i;
 
-int main(void){
+	void ordemCrescente(int vetor[], int n);
 
-int vetor[] = {3,5,6,2,1,7,8,9,10,4};
-int i;
+	ordemCrescente(vetor, 10);
 
-void ordemCrescente(int vetor[], int n);
+	for (i = 0; i < 10; i++)
+	{
 
-for (i = 0; i < 10; i++){
-
-    printf("%i", vetor[i]);
-}
-    return 0;
+		printf("%i\n\n", vetor[i]);
+	}
+	return 0;
 }
