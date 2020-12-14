@@ -3,12 +3,12 @@
 //ordenar os números de forma crescente 
 // em construção!
 
-void ordemCrescente(int vetor[], int n);{
+void ordemCrescente(int vetor[], int n){
 
     int i,j,temp;
 
-    for(){
-        for(){
+    for(i = 0; i < n; i++){
+        for(j = i + 1; j < n; j++){
 
         }
 
