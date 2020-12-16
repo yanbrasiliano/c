@@ -13,20 +13,21 @@ void recHours(struct hour list[5]){
 
 	for (x = 0 ; x < 5; x++) {
 		printf("\nEnter %i° hour(hh:mm:ss) ->  ", x + 1 );
-		scanf("%i:%i:%i", &list[i].hour,
-					 							&list[i].minutes,
-												 &list[i].seconds);
+		scanf("%i:%i:%i", &list[x].hours,
+					 							&list[x].minutes,
+												 &list[x].seconds);
 		
 	}
 }	
 
 void printHour(struct hour list[5]){
-	
-	for (x = 0 ; x < 5; x++) {
-		printf("\nThe %i° is -> %i:%i:%i ", x + 1 
-		 												&list[i].hour,
-					 									&list[i].minutes,
-												 		&list[i].seconds);
+
+	for (int x = 0 ; x < 5; x++) {
+		printf("\nThe %i° is -> %i:%i:%i\n", x + 1 
+		 												, list[x].hours,
+					 									list[x].minutes,
+												 		list[x].seconds);
+	}
 
 
 }
