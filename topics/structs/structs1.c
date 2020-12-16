@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-
-
 struct hour // estrutura global
 {
 	int hours;
@@ -9,35 +7,38 @@ struct hour // estrutura global
 	int seconds;
 };
 
-void recHours(struct hour [5]){
+void recHours(struct hour list[5]){
 
-	int, a,b,c;
+	int x;
 
-	for(x = ; x < 5; x++){
-		printf("\nHours -> ");
-		scanf("%d", &);
-		printf("\nMinutes -> ");
-		scanf();
-		printf("\nSeconds -> ");
-		scanf();
+	for (x = 0 ; x < 5; x++) {
+		printf("\nEnter %i° hour(hh:mm:ss) ->  ", x + 1 );
+		scanf("%i:%i:%i", &list[i].hour,
+					 							&list[i].minutes,
+												 &list[i].seconds);
+		
+	}
+}	
+
+void printHour(struct hour list[5]){
+	
+	for (x = 0 ; x < 5; x++) {
+		printf("\nThe %i° is -> %i:%i:%i ", x + 1 
+		 												&list[i].hour,
+					 									&list[i].minutes,
+												 		&list[i].seconds);
+
+
 }
 
+int main(void)
+{
 
-}
+	struct hour list[5];
+	int x;
 
-void printHour(struct hour [5]){
+	recHours(list);
+	printHour(list);
 
-
-}
-
-int main(void){
-
-struct hour list[5];
-int x;
-
-recHours(list);
-printHour(list);
-
-
-return 0;
+	return 0;
 }
