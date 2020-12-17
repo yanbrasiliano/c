@@ -1,5 +1,5 @@
 
-# Welcome to My Basic Repository in C  ⚡
+# Welcome to My Repository in C  ⚡
 ---
 
   I'm Yan and this is my first repository  🤖 
