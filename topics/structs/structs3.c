@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// programa para estudar a função union;
 union numbers
 {
 	int num1, num2, num3, num4;
