@@ -9,10 +9,9 @@ int main(void)
 	double other = 12.3;
 
 
-	printf("The variable 'number' have a value %d and takes up the space %lf", number,sizeof  );
-	printf("");
-	printf("");
-	printf("");
-
+	printf("The variable 'number' have a value %d and takes up the space %lf", number,sizeof(number));
+	printf("The variable 'number' have a value %.2f and takes up the space %lf", note,sizeof(note));
+	printf("The variable 'number' have a value %c and takes up the space %lf", words,sizeof(words));
+	printf("The variable 'number' have a value %.2f and takes up the space %lf", other,sizeof(other));
 			return 0;
 }
