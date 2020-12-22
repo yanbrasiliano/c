@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//este programa contará o num. de letras de uma palavra.
 
 int tString(char string[]){
 
